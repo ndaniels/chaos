@@ -1,5 +1,6 @@
+# using Plots # uncomment this if running standalone; put it in a separate cell if using Pluto
+
 begin
-    using Plots
     gr()
 
     # define the Lorenz attractor
